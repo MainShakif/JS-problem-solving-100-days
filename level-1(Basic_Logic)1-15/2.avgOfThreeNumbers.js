@@ -1,0 +1,14 @@
+/**
+ * * Find the average of three numbers
+ *
+ */
+
+let number1 = 4;
+let number2 = 6;
+let number3 = 10;
+
+let sum = number1 + number2 + number3;
+
+let average = Number((sum / 3).toFixed(2));
+
+console.log(`Average is = ${average}`);
