@@ -3,9 +3,9 @@
  *
  */
 
-let number1 = 4;
-let number2 = 6;
-let number3 = 10;
+let number1 = 4; //number
+let number2 = 6; //number
+let number3 = 10; //number
 
 let sum = number1 + number2 + number3;
 

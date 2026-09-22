@@ -2,6 +2,18 @@
  * *10. Check whether a given year is a leap year.
  */
 
+/*
+  *1. Start
+  2. input is an year (number)
+  3. output is a string 
+      a) leap year
+      b) not a leap year
+  4.  --> leap year
+         ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0))
+          Not a leap year
+  *5. End
+*/
+
 // let year = 2092;
 // let year = 2002;
 // let year = 2006;

@@ -4,7 +4,7 @@
 
 /**
  * 1. The problem ask me to identify a number that is positive , Negative or zero
- * 2. so the input is an integer and the output is a string with that particular number
+ * 2. The input is an integer, and the output is a string indicating whether the number is positive, negative, or zero.
  * 3. if the number is positive
  *          print positive
  * 4. else if
